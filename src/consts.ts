@@ -26,14 +26,14 @@ export const infoTest = {
 
 // Menu items for navigation
 export const menuItems = [
-  { id: "home", text: "Home", href: "/", svg: "home" }, // Home page
-  { id: "about", text: "About", href: "/about", svg: "about" }, // About page
-  { id: "blog", text: "Blogs", href: "/blog", svg: "blog" }, // Blog page
-  { id: "project", text: "Projects", href: "/project", svg: "project" }, // Projects page
-  { id: "friend", text: "Friends", href: "/friend", svg: "friend" }, // Friends page
+  { id: "home", text: "首页", href: "/", svg: "home" }, // Home page
+  { id: "about", text: "关于", href: "/about", svg: "about" }, // About page
+  { id: "blog", text: "博客", href: "/blog", svg: "blog" }, // Blog page
+  { id: "project", text: "项目", href: "/project", svg: "project" }, // Projects page
+  { id: "friend", text: "朋友", href: "/friend", svg: "friend" }, // Friends page
   {
     id: "contact",
-    text: "Contact",
+    text: "联系",
     href: "mailto:contact.evesunmaple@outlook.com", // Contact email
     target: "_blank", // Open in a new tab
     svg: "contact",
